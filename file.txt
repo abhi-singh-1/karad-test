@@ -1,1 +1,0 @@
-Reading a text file in pseudocode can be very helpful for extracting program output, getting user data and even inputs for a function or the entire program. We need a way to represent this in pseudocode, so we have a very simple way to read and write to text files in pseudocode.
